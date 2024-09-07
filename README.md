@@ -131,4 +131,4 @@ For questions, feel free to reach out at moiz14553@gmail.com.
 - Provided installation and configuration instructions.
 - Included example commands and troubleshooting tips.
 
-Feel free to customize the contact information and any other details as needed!
+Feel free to customize  any other features as needed!
