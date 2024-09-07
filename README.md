@@ -15,7 +15,7 @@ Jarvis is a voice-activated virtual assistant designed to perform a variety of t
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/jarvis-voice-assistant.git
+git clone https://github.com/moiz14553/jarvis-voice-assistant.git
 cd jarvis-voice-assistant
 ```
 
